@@ -1,2 +1,2 @@
 # TradingSetUp
-My Trading Scripts setup
+My trading setup and different strategies used
